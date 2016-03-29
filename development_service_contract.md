@@ -16,8 +16,6 @@ or as part of fulfilling a request from the Client.
 Any code, images, markup, scripts, content created by the Developer while
 performing Services.
 
-**Intangibles**:
-Knowledge about solutions to problems, methods, or designs.
 
 ## Terms
 
@@ -34,7 +32,9 @@ an invoice.
 
 3. **Billable Time**:
 All time spent performing Services and communicating with the Client is
-billable.
+billable. The Client will only be billed for portions of the Product which were
+created during the effective period of this contract and created while
+performing Services for the Client.
 
 	1. **Estimations**:
 	If an estimate is requested by the Client, the first 30 minutes of time spent
@@ -53,16 +53,17 @@ to common problems and are not specific to the Client's product.
 	2. Any portions of the Product whose copyright is withheld by the developer
 are licensed to the Client for use in the Product under the MIT license:
 http://www.opensource.org/licenses/mit-license.php
-	3. The Client will only be billed for portions of the Product which were
-created during the effective period of this contract and created while
-performing Services for the Client.
 
-6. **Intangible Property**:
-The Developer retains ownership of all Intangibles gained by the Developer
-(that are not previously owned by the Client) while providing Services.
+6. **Liability**
+
+  The Developer will provide Services in accordance with good industry practice and at the standard expected from a suitably qualified person with relevant experience.
+
+  The Developer can’t guarantee that Products will be error-free and can’t be liable to the Client or any third-party for damages, including lost profits, lost savings or other incidental, consequential or special damages.
+
+  The Client liability to the Developer will also be limited to the amount of fees payable under this contract and the Client won’t be liable to the Developer or any third-party for damages, including lost profits, lost savings or other incidental, consequential or special damages.
 
 7. **Termination**:
-Either party must give at least 14 days notice to the other party before
+Either party must give at least 7 days notice to the other party before
 termination.  This contract may only be terminated after all outstanding
 invoices have been paid in full.
 
